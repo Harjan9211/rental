@@ -1,0 +1,76 @@
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe.config
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.pdb
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csprojResolveAssemblyReference.cache
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddCustomer.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddMovie.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormDataView.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormEditCust.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormEditMovie.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormMain.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormStats.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.FormTemplate.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Properties.Resources.resources
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.GenerateResource.Cache
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.exe
+C:\Users\jay.patel\Desktop\Ashish Proj\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.pdb
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe.config
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.pdb
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csprojAssemblyReference.cache
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddCustomer.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddMovie.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormDataView.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormEditCust.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormEditMovie.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormMain.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormStats.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.FormTemplate.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Properties.Resources.resources
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.GenerateResource.cache
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.CopyComplete
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.exe
+C:\Users\bhaveshp\Desktop\kiosk_proJay\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.pdb
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe.config
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.exe
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.pdb
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.pdb
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddCustomer.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddMovie.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormDataView.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormEditCust.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormEditMovie.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormMain.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormStats.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.FormTemplate.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Properties.Resources.resources
+C:\Users\Jay Keraliya\Desktop\New VideoRental-master (By Nyalkaran Technology)\New VideoRental-master\Source\VideoRental-master\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.GenerateResource.Cache
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe.config
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.exe
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\bin\Debug\VideoRentalSystem.pdb
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csprojAssemblyReference.cache
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddCustomer.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormAddMovie.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormDataView.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormEditCust.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoStore.FormEditMovie.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormMain.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Forms.FormStats.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.FormTemplate.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.Properties.Resources.resources
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.GenerateResource.cache
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.CoreCompileInputs.cache
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.csproj.CopyComplete
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.exe
+C:\Users\thispc\Documents\level6\assignment 2\assignment\VideoRental\Source\VideoRental\VideoRentalSystem\VideoRentalSystem\obj\Debug\VideoRentalSystem.pdb
