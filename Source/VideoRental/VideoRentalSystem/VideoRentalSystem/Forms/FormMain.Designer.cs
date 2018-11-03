@@ -63,7 +63,7 @@
             this.lblSoftwareVersion.Name = "lblSoftwareVersion";
             this.lblSoftwareVersion.Size = new System.Drawing.Size(343, 31);
             this.lblSoftwareVersion.TabIndex = 8;
-            this.lblSoftwareVersion.Text = "Video Rental Software v1.0";
+            this.lblSoftwareVersion.Text = "Video Rental Software";
             // 
             // FormMain
             // 
